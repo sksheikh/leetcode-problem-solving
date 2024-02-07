@@ -39,4 +39,4 @@ class Calculator {
 }
 
 const calculator = new Calculator(10).add(12).subtract(2);
-console.log(calculator);
+// console.log(calculator);
